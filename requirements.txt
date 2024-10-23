@@ -1,3 +1,10 @@
 pip install pywifi
 pip install comtypes
 pip install scapy
+pip install pycryptodome
+
+
+sudo apt install wpasupplicant
+sudo systemctl start wpa_supplicant
+sudo apt install aircrack-ng
+sudo airmon-ng

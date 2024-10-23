@@ -4,7 +4,7 @@ Tool/
 │
 ├── core/
 │   ├── scanner.py            # Gestione del rilevamento delle reti (sniffing)
-│   ├── deauth.py             # TODO Gestione dell'attacco di deautenticazione
+│   ├── deauth.py             # FIX REQUIRED Gestione dell'attacco di deautenticazione
 │   ├── cracker.py            # TODO Gestione del cracking WPA/WPA2
 │   ├── monitor_mode.py       # TODO Configurazione della scheda wireless in modalità monitor
 │   └── utils.py              # TODO Funzioni di utilità comuni (gestione dei pacchetti, parsing)
