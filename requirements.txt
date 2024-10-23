@@ -1,0 +1,3 @@
+pip install pywifi
+pip install comtypes
+pip install scapy
